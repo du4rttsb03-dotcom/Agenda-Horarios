@@ -1,0 +1,6 @@
+@AutoEscolaAPI_HostAddress = http://localhost:5073
+
+GET {{AutoEscolaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
